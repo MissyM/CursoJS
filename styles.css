@@ -1,0 +1,28 @@
+/*Commons*/
+
+.titleForm {
+	text-align: center;
+}
+/*Formulario*/
+.tagContent {
+	width: 300px;
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+.tagName {
+	/*margin-right: 15px; */
+}
+.btnContent {
+	display: flex;
+	justify-content: center;
+}
+/*Catalogo*/
+.formCat {
+	display: flex;
+	justify-content: space-between; 
+	margin: 50px 120px;
+}
+.item {
+
+}
